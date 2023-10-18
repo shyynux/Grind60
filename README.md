@@ -1,17 +1,17 @@
-# Welcome to Grind60, 60-Day Study Plan! 📚💻
+# Welcome to Grind30, 30-Day Study Plan! 📚💻
 
-A 60-day study plan tailored to help you brush up on your DSA concepts and improve your problem-solving skills.
+A 30-day study plan to practice DSA. After much struggle, I decided to pursue DSA topic wise, I am starting with Trees as i love it.
 
-In this repository, you will find a structured 60-day study plan tailored to help you brush up on your DSA concepts and improve your problem-solving skills. Each day, we will solve 3 to 4 chosen programming questions that span various difficulty levels. 
-By consistently engaging with these questions, you'll not only reinforce your understanding of DSA but also develop the knack for efficiently tackling algorithmic challenges.
+[🌳 What is a Tree?](https://dev.to/shyynux/what-are-tree-data-structure-gck)
 
 ## How to Use:
 
 - Fork this repository to have your personalized copy.
-- Follow the daily folders as per the outlined 60-day plan.
+- Follow the daily folders as per the outlined plan.
 - Attempt the given questions, striving for both accuracy and efficiency.
 - Feel free to modify the plan to suit your pace, but consistency is key!
 - Track your Progress in the Grind60To-Do-List (in progress rn).
+- It's important to keep track of the time taken while solving every problem.
 
 Happy coding! 💡👨‍💻
    
